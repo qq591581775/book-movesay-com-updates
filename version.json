@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "0.6.0",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/qq591581775/book-movesay-com-updates@v0.6.0/book-movesay-0.6.0.apk",
-  "notes": "阅读器改成按页阅读：可左右翻页、点屏幕左/右三分之一翻页，页底显示页码，翻到本章末尾自动进下一章；新增阅读设置（字号、行距、纸色/米黄/护眼/夜间四种背景、左右翻页或上下滚动）；修复底部听书按钮被系统手势条遮住的问题。"
+  "versionCode": 12,
+  "versionName": "0.0.1",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/qq591581775/book-movesay-com-updates@v0.0.1/book-movesay-0.0.1.apk",
+  "notes": "版本号从这一版起改为 0.0.1 起步、每次加 0.0.1。本次完善阅读器：退出重进能回到上次读到的那一页（换字号也不会跑偏），翻页加了左右滑动的过渡动画，设置里新增「阅读时常亮」，并继续保留左右翻页、四种背景、字号行距调节。"
 }
