@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "0.4.1",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/qq591581775/book-movesay-com-updates@v0.4.1/book-movesay-0.4.1.apk",
-  "notes": "内置两个真实书源（小说阅读网、红袖添香），装完直接能搜书、看目录、读正文、听书；正文按段落显示；VIP 章节会提示只能读到公开部分；书源页新增「恢复内置书源」。"
+  "versionCode": 8,
+  "versionName": "0.5.0",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/qq591581775/book-movesay-com-updates@v0.5.0/book-movesay-0.5.0.apk",
+  "notes": "阅读器新增目录抽屉（直接跳章、听书中跳章继续播）、夜间模式（顶栏一键切换并记忆）；书架长按可移出；听书新增音频焦点跟随，来电或有线耳机拔出会自动暂停。"
 }
