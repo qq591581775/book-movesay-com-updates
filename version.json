@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "0.5.2",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/qq591581775/book-movesay-com-updates@v0.5.2/book-movesay-0.5.2.apk",
-  "notes": "阅读器新增目录抽屉，点章节直接跳，听书中跳章会自动接着播；新增夜间模式，顶栏一键切换并记住设置；书架长按可移出；听书跟随音频焦点，来电或拔出耳机自动暂停。更新检查改为同时读多个清单取最高版本，不再被旧缓存误报为已是最新。"
+  "versionCode": 11,
+  "versionName": "0.6.0",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/qq591581775/book-movesay-com-updates@v0.6.0/book-movesay-0.6.0.apk",
+  "notes": "阅读器改成按页阅读：可左右翻页、点屏幕左/右三分之一翻页，页底显示页码，翻到本章末尾自动进下一章；新增阅读设置（字号、行距、纸色/米黄/护眼/夜间四种背景、左右翻页或上下滚动）；修复底部听书按钮被系统手势条遮住的问题。"
 }
