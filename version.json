@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.3.2",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/qq591581775/book-movesay-com-updates@v0.3.2/book-movesay-0.3.2.apk",
-  "notes": "我的页显示真实阅读/听书设置与当前版本号；本次用于验证应用内自动升级链路。"
+  "versionCode": 6,
+  "versionName": "0.4.0",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/qq591581775/book-movesay-com-updates@v0.4.0/book-movesay-0.4.0.apk",
+  "notes": "后台听书上线：切页面、锁屏都继续读；通知栏与锁屏可上一章/暂停/下一章；新增定时关闭（15/30/60 分钟）；一章读完自动续下一章。"
 }
