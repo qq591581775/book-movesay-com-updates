@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "0.0.2",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/qq591581775/book-movesay-com-updates@v0.0.2/book-movesay-0.0.2.apk",
-  "notes": "阅读设置再补两项：翻页动画可选滑动或无动画；亮度可调（跟随系统/暗/中/亮），只影响阅读页，退出自动还原。顶栏新增全书阅读进度百分比和一条细进度条，翻页会实时走。"
+  "versionCode": 14,
+  "versionName": "0.0.3",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/qq591581775/book-movesay-com-updates@v0.0.3/book-movesay-0.0.3.apk",
+  "notes": "听书时当前朗读的那一句会在正文里淡色高亮；开着听书阅读器会自动翻到正在读的那一页，不用手动追。设置里新增「听书跟随：自动翻页 / 不跟随」，想自己翻页时关掉即可。"
 }
