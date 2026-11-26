@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "0.3.1",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/qq591581775/book-movesay-com-updates@v0.3.1/book-movesay-0.3.1.apk",
-  "notes": "更新通道验证版：阅读器顶栏显示当前书源；启动时自动检查更新，我的页会提示新版本。"
+  "versionCode": 5,
+  "versionName": "0.3.2",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/qq591581775/book-movesay-com-updates@v0.3.2/book-movesay-0.3.2.apk",
+  "notes": "我的页显示真实阅读/听书设置与当前版本号；本次用于验证应用内自动升级链路。"
 }
